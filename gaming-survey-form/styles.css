@@ -1,0 +1,17 @@
+body{
+    padding:5%;
+    font-family:Helvetica;
+  }
+  label {
+    padding-bottom:2em;
+  }
+  label, input {
+    display:block;
+    margin: auto;
+  }
+  input {
+    width:100%
+  }
+  textarea{
+    padding:0.5em;
+  }
